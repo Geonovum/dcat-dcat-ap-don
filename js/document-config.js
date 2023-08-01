@@ -20,6 +20,8 @@ var documentConfig =
     "docs.geostandaarden.nl/dcat/def-st-dcat-ap-don-20221124/"
   ],
   previousMaturity: "def",
+  github: "https://github.com/dataoverheid/dcat-dcat-ap-don/",
+  issueBase: "https://github.com/dataoverheid/dcat-dcat-ap-don/issues/",
   editors: [
     {
       name: "Casper le Gras",
