@@ -9,7 +9,7 @@ var documentConfig =
   latestVersion: [
     "docs.geostandaarden.nl/dcat/dcat-ap-don/"
   ],
-  publishDate: "2023-08-02",
+  publishDate: "2023-08-03",
   publishVersion: "2.0.2",
   thisVersion: [
     "https://dataoverheid.github.io/dcat-dcat-ap-don/"
